@@ -1,0 +1,3 @@
+MC|What is the capital of Iran?|10|Tehran|Shiraz,Tehran,Mashhad
+TF|Is the sun a star?|5|true
+MC|What is 2 + 2?|5|4|3,4,5
